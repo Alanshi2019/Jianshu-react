@@ -1,0 +1,3 @@
+export const CHANGE_HOME_DATA = 'home/CHANGE_HOME_DATA';
+export const ADD_ARITCLE_LIST = 'home/ADD_ARITCLE_LIST';
+export const CHANGE_WRITER_PAGE = 'home/CHANGE_WRITER_PAGE';
