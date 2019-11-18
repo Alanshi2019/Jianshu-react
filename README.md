@@ -78,34 +78,34 @@ react + redux + redux-thunk  + webpack + react-router + ES6/7/8 + axios + react-
 
 Home Page:
 
-![HomePage]()
+![HomePage](https://github.com/Alanshi2019/Jianshu-react/blob/master/img/imgUI.jpeg)
 
 
 Detail page: 
 
-![Detail]()
+![Detail](https://github.com/Alanshi2019/Jianshu-react/blob/master/img/imgDetail.jpeg)
 
 
 Login page:
 
-![Login page]()
+![Login page](https://github.com/Alanshi2019/Jianshu-react/blob/master/img/imgLogin.png)
 
 
 React Router:
 
-![React Router]()
+![React Router](https://github.com/Alanshi2019/Jianshu-react/blob/master/img/imgRouter.png)
 
 
 ## Redux & Redux-thunx
 
-Store:
+Store with Redux-thunx as middlewares:
 
-![Redux]()
+![Redux](https://github.com/Alanshi2019/Jianshu-react/blob/master/img/imgReduxStore.png)
 
 
 Reducer.js:
 
-![Reucer]()
+![Reucer](https://github.com/Alanshi2019/Jianshu-react/blob/master/img/imgReducer.png)
 
 
 
